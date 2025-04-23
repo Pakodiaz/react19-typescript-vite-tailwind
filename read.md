@@ -84,3 +84,11 @@ En tu package.json, agrega esto:
 "scripts": {
 "test": "jest"
 }
+
+7. Construye tu app para producción
+
+npm run build
+
+Esto genera la carpeta dist/ que contiene HTML, JS y CSS optimizado.
+
+
